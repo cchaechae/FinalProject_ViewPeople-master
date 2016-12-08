@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "172481495877",
+    "firebase_url": "https://mhc-dining-hall-population-app.firebaseio.com",
+    "project_id": "mhc-dining-hall-population-app",
+    "storage_bucket": "mhc-dining-hall-population-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172481495877:android:854e6fd85741ca74",
+        "android_client_info": {
+          "package_name": "finalproject.mhcdining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172481495877-sdkd9munjsv9grnq9emf2q82hcgb7pk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ptmdOANJ_rlZyGk5KntNoSR9T5KqUqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172481495877:android:074a482d4f92e0d1",
+        "android_client_info": {
+          "package_name": "finalproject.addpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172481495877-sdkd9munjsv9grnq9emf2q82hcgb7pk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ptmdOANJ_rlZyGk5KntNoSR9T5KqUqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172481495877:android:b4ac9046f8f17dab",
+        "android_client_info": {
+          "package_name": "finalproject.add_people"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172481495877-sdkd9munjsv9grnq9emf2q82hcgb7pk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ptmdOANJ_rlZyGk5KntNoSR9T5KqUqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172481495877:android:5f578ca7385d0b3e",
+        "android_client_info": {
+          "package_name": "finalproject.viewpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172481495877-sdkd9munjsv9grnq9emf2q82hcgb7pk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ptmdOANJ_rlZyGk5KntNoSR9T5KqUqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
